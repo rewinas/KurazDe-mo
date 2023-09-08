@@ -1,4 +1,4 @@
-package com.kuraz.demo.KurazDe.mo;
+package com.kuraz.demo.KurazDe.mo.common;
 
 public interface Coach {
 
